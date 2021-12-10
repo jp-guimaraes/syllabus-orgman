@@ -1,4 +1,0 @@
-baseURL = "localhost"
-languageCode = "en-us"
-title = "Organização e Manutenção de Computadores"
-theme = "hugo-book"
