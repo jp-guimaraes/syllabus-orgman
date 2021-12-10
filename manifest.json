@@ -1,0 +1,15 @@
+{
+  "name": "Organização e Manutenção de Computadores",
+  "short_name": "Organização e Manutenção de Computadores",
+  "start_url": "/syllabus-orgman/",
+  "scope": "/syllabus-orgman/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/syllabus-orgman/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

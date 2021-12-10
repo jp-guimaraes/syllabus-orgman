@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Organização e Manutenção de Computadores</title>
+    <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/</link>
+    <description>Recent content in Docs on Organização e Manutenção de Computadores</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jp-guimaraes.github.io/syllabus-orgman/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aulas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aulas/</guid>
+      <description>Momentos síncronos Aula 01 Data: 11.11.2021
+  Slides: https://jp-guimaraes.github.io/orgman_slides00/#/
+Conteúdos vistos: Introdução à disciplina;</description>
+    </item>
+    
+  </channel>
+</rss>
