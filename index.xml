@@ -337,5 +337,17 @@ Conteúdo: Tipos de Sistemas de Arquivos; Características e comparativos entre 
 Material complementar: Links dos Slides; Teste objetivo; Leitura complementar - Sistemas de arquivos no PC e no celular</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-27/</guid>
+      <description>Aula 27 - 24.02.2022 Aula síncrona presencial;
+Roteiro:
+Prática 1 – Introdução ao uso do multímetro Objetivo: Fazer com que o aluno conheça o instrumento multímetro, saiba usá-lo para medir a tensão em uma tomada e a continuidade para avaliar se o botão do gabinete está funcionando.
+Prática 2 – Teste de fonte Objetivo: Fazer com que o aluno saiba como testar a fonte fazendo o curto entre o pino verde e o pino preto; Conferência de tensões DC usando multímetro</description>
+    </item>
+    
   </channel>
 </rss>
