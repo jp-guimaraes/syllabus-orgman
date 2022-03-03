@@ -357,7 +357,9 @@ Prática 2 – Teste de fonte Objetivo: Fazer com que o aluno saiba como testar 
       <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-28/</guid>
       <description>Aula 28 - 03.03.2022   Link: https://youtu.be/4XyDGmDS4mM
 [Slides]https://jp-guimaraes.github.io/slides_armazenamento_secundario/#/)
-Conteúdo: Armazenamento Secundário</description>
+Conteúdo: Hierarquia de memória; Armazenamento Secundário; Disco rígido, memória flash, discos óticos, nuvem (características e funcionamento); Redundânica; RAID; RAID 0, RAID 1, RAID 2,3,5,6,7; RAID 0+1, RAID 10, Conceitos e exemplos de mirroring e stripping
+&amp;ndash;&amp;gt;
+Material complementar: Links dos Slides; Teste objetivo;</description>
     </item>
     
   </channel>
