@@ -405,9 +405,13 @@ Material complementar: Links dos Slides; Teste objetivo;</description>
       
       <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-32/</guid>
       <description>Aula 32 - 24.03.2022   Link: https://youtu.be/Tl_GAJ2tH0Y
-Slides Motherboard
+Slides GPU
 Conteúdo: Geração de discos inicializáveis; GPU e Monitores;
-Material complementar: Links dos Slides; Teste objetivo;</description>
+Material complementar: Links dos Slides; Teste objetivo;
+ Tutorial de geração de discos de inicialização Geração de discos de inicialização - Instalação de sistemas operacionais
+Imagem de um disco de inicialização -&amp;gt; arquivo .ISO
+Download da imagem (arquivo ISO)
+queimar o arquivo num flash/pendrive -&amp;gt; Instalando o disco de inicialização/instalação do sistema operacional no pendrive</description>
     </item>
     
   </channel>
